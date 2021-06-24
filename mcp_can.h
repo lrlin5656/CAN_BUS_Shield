@@ -1,5 +1,5 @@
 /*
-    mcp_can.h
+    mcp_can.h, replace same file of https://github.com/Seeed-Studio/CAN_BUS_Shield  
     2012 Copyright (c) Seeed Technology Inc.  All right reserved.
 
     Author:Loovee (loovee@seeed.cc)
@@ -44,8 +44,8 @@
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 */
-#ifndef _MCP2515_H_
-#define _MCP2515_H_
+#ifndef _MCP_CAN_H_
+#define _MCP_CAN_H_
 
 #include "mcp_can_dfs.h"
 
